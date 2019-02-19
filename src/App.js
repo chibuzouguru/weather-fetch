@@ -9,7 +9,7 @@ class App extends Component {
         <header className="App-header">
           <img src={logo} className="App-logo" alt="logo" />
           <p>
-            Changing to check github functionality.
+            Changing to check github functionality
           </p>
           <a
             className="App-link"
